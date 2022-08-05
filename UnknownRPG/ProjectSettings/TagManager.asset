@@ -9,6 +9,7 @@ TagManager:
   - transformation
   - Selected
   - missionAlert
+  - GrayGrid
   layers:
   - Default
   - TransparentFX
